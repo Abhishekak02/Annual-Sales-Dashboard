@@ -1,2 +1,0 @@
-# Annual-Sales-Dashboard
-An Excel dashboard analyzing a store's annual sales data. Includes data cleaning, processing, and analysis with Pivot Tables and charts (Pie, Column, Bar). Provides insights into trends, patterns, and performance metrics, helping the store owner make informed decisions.
